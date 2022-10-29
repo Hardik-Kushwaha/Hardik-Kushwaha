@@ -1,5 +1,5 @@
 # Hardik Kushwaha
-I am a guy obsessed with Technology and Computers :)\n
+I am a guy obsessed with Technology and Computers :)  
 My Holopin badge board:
 [![@hardik's Holopin board](https://holopin.me/hardik)](https://holopin.io/@hardik)
 <!--
