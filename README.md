@@ -10,13 +10,12 @@
 <h3 align="center">I am a guy obsessed with Technology and Computers :)</h3>
 
 <div>
-  
-<img  align="left" alt="Coding" width="300" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img  align="left" alt="Coding" width="400" src="https://i.imgur.com/J1577E7.gif">
 <kbd >
 <img src="https://leetcode-stats-six.vercel.app/api?username=hardik_kushwaha&show_icons=true&customColor=FFA500" alt="Hardik Kushwaha's LeetCode stats">
 </kbd>
 </div>
-<br><br>
+
 <br><br>
 
 <h2 align="center">Statistics</h3>
