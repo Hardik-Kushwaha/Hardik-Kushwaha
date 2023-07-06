@@ -22,8 +22,8 @@
 
 <div  align="center" >
 <!--   <img  src="http://github-readme-streak-stats.herokuapp.com?user=Hardik-Kushwaha&border_radius=100&card_width=200&hide_current_streak=true&hide_longest_streak=true" /> -->
-  <img  src="https://github-readme-stats.vercel.app/api?username=Hardik-Kushwaha&show_icons=true&theme=dracula&rank_icon=percentile&include_all_commits=true&card_width=300" alt="Hardik Kushwaha">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Hardik-Kushwaha&show_icons=true&theme=dracula&layout=donut&locale=en" alt="Hardik Kushwaha">
+  <img  src="https://github-readme-stats.vercel.app/api?username=Hardik-Kushwaha&show_icons=true&rank_icon=github&include_all_commits=true&card_width=300&bg_color=-10,ea72ad,faff89&title_color=fff&icon_color=fff&text_color=fff" alt="Hardik Kushwaha">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Hardik-Kushwaha&show_icons=true&layout=donut&locale=en&bg_color=30,faff89,ea72ad&title_color=333333&text_color=333333" alt="Hardik Kushwaha">
 </div>
 
 <br>
