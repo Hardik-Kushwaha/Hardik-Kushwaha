@@ -11,9 +11,9 @@
 
 <div>
 <img  align="left" alt="Coding" width="400" src="https://i.imgur.com/J1577E7.gif">
-<kbd >
-<img src="https://leetcode-stats-six.vercel.app/api?username=hardik_kushwaha&show_icons=true&customColor=FFA500" alt="Hardik Kushwaha's LeetCode stats">
-</kbd>
+
+<!-- <img src="https://leetcode-stats-six.vercel.app/api?username=hardik_kushwaha&show_icons=true&customColor=FFA500" alt="Hardik Kushwaha's LeetCode stats"> -->
+   ![LeetCode Stats](https://leetcode.card.workers.dev/hardik_kushwaha?theme=unicorn&font=baloo&extension=null)
 </div>
 
 <br><br>
