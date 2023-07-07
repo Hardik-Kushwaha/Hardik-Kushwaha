@@ -12,8 +12,7 @@
 <div>
 <img  align="left" alt="Coding" width="300" src="https://i.imgur.com/LCL4NNL.gif">
 
-<!-- <img src="https://leetcode-stats-six.vercel.app/api?username=hardik_kushwaha&show_icons=true&customColor=FFA500" alt="Hardik Kushwaha's LeetCode stats"> -->
-   ![LeetCode Stats](https://leetcode.card.workers.dev/hardik_kushwaha?theme=unicorn&font=baloo&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/hardik_kushwaha?ext=contest&theme=unicorn)
 </div>
 
 <br>
