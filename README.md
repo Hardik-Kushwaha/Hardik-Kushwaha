@@ -2,12 +2,13 @@
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=Hardik-Kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="HardikK Kushwaha"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hardik_Kushwaha-0077B5?logo=linkedin&style=flat)](https://www.linkedin.com/in/hardik-kushwaha/) 
-  [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Hardik_Kushwaha-FFA500?logo=leetcode&style=flat)](https://leetcode.com/hardik_kushwaha/) 
-  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Hardik_Kushwaha-0F9D58?logo=geeksforgeeks&style=flat)](https://auth.geeksforgeeks.org/user/hardikkushwaha)
+  <img src="https://komarev.com/ghpvc/?username=Hardik-Kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="HardikK Kushwaha"> [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blueviolet?style=flat&logo=dribbble&logoColor=white)](https://hardik-kushwaha.github.io/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat)](https://www.linkedin.com/in/hardik-kushwaha/) 
+  [![LeetCode Profile](https://img.shields.io/badge/LeetCode-grey?logo=leetcode&style=flat)](https://leetcode.com/hardik_kushwaha/) 
+  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-grey?logo=geeksforgeeks&style=flat)](https://auth.geeksforgeeks.org/user/hardikkushwaha)
 </div>
 
-<h3 align="center">I am a guy obsessed with Technology and Computers :)</h3>
+<h3 align="center">I'm a guy obsessed with Technology and Computers :)</h3>
 
 <div align="center">
 <img  align="left" alt="Coding" width="300" src="https://i.imgur.com/LCL4NNL.gif">
