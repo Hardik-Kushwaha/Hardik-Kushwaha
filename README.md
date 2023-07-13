@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hardik Kushwaha</h1>
+<h1 align="center"><b>Hi, I'm Hardik Kushwaha</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
   
@@ -8,7 +8,10 @@
   [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-grey?logo=geeksforgeeks&style=flat)](https://auth.geeksforgeeks.org/user/hardikkushwaha)
 </div>
 
-<h3 align="center">I'm a guy obsessed with Technology and Computers :)</h3>
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=07B6F7&center=true&width=700&height=100&lines=I'm+a+guy+obsessed+with+Technology+and+Computers;I'm+a+Computer+Science+Student;A+Problem+Solver...;And+an+Active+Learner...)
+</div>
 
 <div align="center">
 <img  align="left" alt="Coding" width="300" src="https://i.imgur.com/LCL4NNL.gif">
